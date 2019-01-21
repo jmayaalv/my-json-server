@@ -1,0 +1,14 @@
+{
+    "response": {
+        "code": "reqcode",
+        "contractCode": "Icontractcode",
+        "commonId": "commonId",
+        "details": [
+            {
+                "amount": 1000.00,
+                "currency": "USD",
+                "txCode": "A740"
+            }
+        ]
+    }
+}
